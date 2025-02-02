@@ -1,0 +1,4 @@
+npx create-react-app ai-pdf-workspace
+cd C:/Users/23362/Desktop/creat/ai-pdf-workspace
+npm install react-router-dom @mui/material @emotion/react @emotion/styled
+npm start 
